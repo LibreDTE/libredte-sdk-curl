@@ -1,6 +1,8 @@
 SDK de LibreDTE para curl
 =========================
 
+**OBSOLETO**: repositorio sin mantención.
+
 **Importante**: esto no es un SDK para curl, son sólo ejemplos, sin la estructura
 de los otros SDK. El nombre del repositorio se mantuvo por compatibilidad con los
 otros proyectos asociados a lenguajes específicos.
